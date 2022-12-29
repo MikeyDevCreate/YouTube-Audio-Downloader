@@ -12,3 +12,5 @@ Download the audio of any youtube video!
 4.Unzip the folder and go to the directory of the folder in your terminal
 
 5.Run ```python youtube-audio-downloader.py``` command in your terminal
+
+6.Enjoy!
